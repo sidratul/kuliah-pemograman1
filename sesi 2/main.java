@@ -1,4 +1,4 @@
-import praktikum_classpath.latihan;
+import src.praktikum_classpath.latihan;
 public class main{
 	public static void main(String[] agrs){
 		latihan l = new latihan();
