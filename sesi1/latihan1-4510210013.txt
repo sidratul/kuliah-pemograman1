@@ -1,0 +1,61 @@
+nama : muhammad sidratul muntaha
+npm : 4510210013
+
+menambahkan
+belajar github
+
+e-mail:tear_ofregret@hotmail.co.id
+1 instal github
+2 instal tortoise
+3 buat folder baru -->klik kanan pilih git--creat here.
+  lalu akan muncul folder .git
+4 buat file txt-->edit file txt tersebut.
+5 klik kanan pada file tersebut pilih git commit->"master"-->isi keterangan:
+	message : (contoh : latihan 1)
+	centang file txt tadi
+ klik ok dan tunggu sampai muncul pesan succes lalu close
+6 ketika melalakukan perubuhan lakukan langkah ke 5
+ 
+7 terdahulu
+  klik kanan -->tortoise-->show log-->klik kanan pada file terdahulu -->
+  swicth/checkout to this-->hilangin centang-->ok
+  maka file sekarang berubah menjadi terdahulu.
+
+8 kesemula
+  klik kanan-->tortoise-->switch/checkout-->
+  pada bagian branc ganti master-->ok
+
+bugfix, karena base on master jadi bug fix sama dengan master. !!
+
+
+baru
+buat branch bag fix(paralel development)
+1. buta branch bugfix
+	tortoise> creat branch
+	nama branch :bugfix
+	base on : HEAD (master)
+
+2. melihat branch yang sedang aktif
+	-klik kanan, lihat (jangan klik) commit -> master
+	master adalah branch aktif.
+
+
+3. pindah ke branch bug fix
+	-tortoise >swicth/checkout
+	-branch : pilih bugfix
+	-cek branch yang sedang aktif seperti langkah 2
+	harusnya tulisannya commit bugfix
+
+4. show log untuk melihat posisi branch dan centang all branch
+
+marge
+1 marge bugfix(branch asal = bugfix)
+  kedalam master (branch tujuan = master)
+	-pindah branch tujuan
+	-tortoise>marge
+	-pilih branch asal (from branch diganti bugfix)
+	-klik ok
+	-lihat pesannya succes atu conflict
+
+2 kalau eror hapus txt eror dan klik kanan resolve
+
