@@ -6,10 +6,13 @@ public class praktikum{
 	//di deklarasikan variebl count =1 dengan tipe data integer
 		int count =1;
 		
-		//melakukan selection 
+		//melakukan pengulangan, ketika variebel count <5 maka: 
 		while(count<5){
+			//menampilkan "count is equal to (nilai count) 
 			System.out.println("count is equal to "+count);
-			count++;
+			count=count+1
+			count++;	
 		}	
+	//jika pernyataan tidak tepenuhi maka repetation selesai
 	}
 }
