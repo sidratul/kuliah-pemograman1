@@ -5,6 +5,7 @@ public class TryCatchException{
 	public static void main(String[] args){
 		try{
 			System.out.println("choose one of the options,(1-3)"+"\n\t1.) Steak" +"\n\t2.)Lobster"+"\n\t3.)Cheseburger");
+			System.out.print("Masukkan pilihan anda : ");
 			String choose = input.readLine();
 			if(choose.equals("1")){
 				System.out.println("anda memilih steak :9\n");
