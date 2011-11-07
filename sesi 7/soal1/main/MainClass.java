@@ -17,6 +17,5 @@ public class MainClass{
 		System.out.println("NIlai b : "+b);
 		System.out.println("Nilai c : "+c);
 		System.out.println("NIlai d : "+d);
-		
 	}
 }
