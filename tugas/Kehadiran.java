@@ -1,3 +1,3 @@
-public static Kehadiran{
+public class Kehadiran{
 	static String status;
 }

@@ -1,4 +1,4 @@
-public static Nilai{
-	private static jenis;
+public class Nilai{
+	private String jenis;
 	private Integer nilai; 
 }

@@ -1,4 +1,4 @@
-public static Dosen{
-	private static nama;
-	private static email;
+public class Dosen{
+	private String nama;
+	private String email;
 }

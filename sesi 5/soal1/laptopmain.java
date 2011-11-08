@@ -8,7 +8,7 @@ import java.util.List;
 
 public class laptopmain{
 	public static void main(String[] agrs){
-		File file=new File("D:/muhammad sidratul muntaha/pemograman 1/sesi 5/soal1/laptop.txt");
+		File file=new File("C:/Users/Muhammad Sidratul M/Documents/UP/muhammad sidratul muntaha/smester 3/programan1/pemograman 1/sesi 5/soal1/laptop.txt");
 		FileInputStream fis = null;
 		BufferedInputStream bis=null;
 		DataInputStream dis =null;
