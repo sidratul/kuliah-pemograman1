@@ -12,7 +12,7 @@ class SpongeBob extends Hewan implements Manusia{
 	public void ketawa(){
 		System.out.println("ngeheheheh ngeheheh");
 	}
-	public static void Makan(){
+	public static void makan(){
 		System.out.println("ehmmm yummy enaak");
 	}
 	public void makan2(){
