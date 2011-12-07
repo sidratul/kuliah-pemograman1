@@ -8,3 +8,4 @@ public class Pembelian{
 	private List<PembelianDetail> daftarPemeblianDetail;
 	
 }
+//javac -cp src -d bin src/aplikasi/toko/* 

@@ -1,0 +1,1 @@
+package src;public class KrsDetail{	private String status;	private String ket;}
